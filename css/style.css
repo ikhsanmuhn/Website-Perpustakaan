@@ -1,0 +1,74 @@
+
+.container-fluid{
+    background-color: #2b4d70;
+    max-width: 1263px;
+    max-height: 900px;
+    padding: 0;
+}
+
+.kategori{
+    margin-right: 40px;
+    float: right;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background: #2b4d70;
+    align-content: center;
+    height: 650px;
+    margin-left: 900px;
+}
+.kategori a img{
+    margin: 20px;
+    width: 170px;
+    height: 170px;
+    margin-left: 60px;
+    margin-top: 90px;
+}
+
+.masuk{
+    margin-top: 115px;
+    margin-right: 40px;
+    float: right;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background: #c70808;
+    align-content: center;
+    height: 50px;
+
+}
+.masuk h6{
+    padding: 15px;
+    color: #ffffff;
+    text-align: center;
+    font-family: Montserrat-SemiBold;
+}
+
+.banner{
+    position: absolute;
+    margin-top: 115px;
+    float: left;
+    align-content: center;
+    height: 650px;
+}
+
+.banner img{
+    width: 760px;
+    height: 540px;
+    margin: auto;
+    margin-top: 150px;
+    margin-right: 170px;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+#logo{
+    width: 70px;
+    height: 70px;
+    margin-left: 15px;
+    margin-top: 0;
+}
+
+.banner h3{
+    text-align: center;
+    font-family: Montserrat-Bold;
+    color: #2b4d70;
+}

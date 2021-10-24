@@ -1,0 +1,67 @@
+.container-fluid{
+	padding: 0;
+}
+
+.container-fluid{
+    
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.login{
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background:  #f55309;
+    border-radius: 25px;
+    width: 100%;
+    height: 50%;
+}
+
+.logo{
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.login h3{
+    padding: 50px;
+    color: #ffffff;
+    text-align: center;
+    font-family: Montserrat-SemiBold;
+}
+
+.loginform {
+	display: block;
+	width: 100%;
+	height: calc(1.5em + 0.75rem + 2px);
+    padding: 20px;
+    font-family: Montserrat-Regular;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #ffffff;
+	background-color: #f39200;
+	background-clip: padding-box;
+	border: 1px solid #f39200;
+	border-radius:50px;
+	transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.masuk {
+	float: right;
+	width: 100px;
+	height: 40px;
+	background-color: grey;
+	color: #ffffff;
+	border-radius: 50px;
+	margin-top: 40px;
+	border: 1px solid grey;
+}
